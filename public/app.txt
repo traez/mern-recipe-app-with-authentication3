@@ -1,42 +1,6 @@
 Timestamp: 2:28:00
 ------------------------------------------------------------------------
 Things i learnt
-
--have statements running in 2 terminals (client & Server) same time
--regular dependency vs dev dependency. Bundle size
--index.js can be in root or in a src folder. both are acceptable
--if index.js is in src, script should be "node src/index.js"
--MongoDB cluster → MongoDB database → Collections → Documents architecture
--Bcrypt can automatically generate a random salt or you can provide a custom salt
--npm i react-router-dom axios react-cookie
--the ESLint rule import/first. This rule enforces that all import statements should be at the top of the file before any non-import statements.
--React app configure it to communicate with the backend with proxy in package.json that allows you use relative paths for API calls in frontend. For Vite however you configure the proxy in the vite.config.js file
--in ECMAScript Modules, you add ("type": "module") in the package.json file.  and add statement "const __dirname = path.resolve();" after "import path from 'path';" to avoid errors
-
--setup-deploy-mern-app-vercel-render - Frontend Vercel, Backend Render
--diary-web-app-mern-stack - Frontend Render, Backend Render
--full-stack-mern-todo-app - Render (Frontend npm run build React)
--dinosaur-generator-app-nodejs - Render (Frontend npm run build Vanilla)
--mern-stack-book-store-project-frontend - Frontend Render, Backend Render
--mern-recipe-app-with-authentication - Render (Frontend npm run build React)
-------------------------------------------------------------------------
-MERN Recipe App with Authentication - Build & Deploy A React Intermediate Project
-https://www.youtube.com/watch?v=P43DW3HUUH8&t=423s
-2:37:48mins
-https://github.com/machadop1407/MERN-Recipe-App
-------------------------------------------------------------------------
-Timestamps
-00:00:00 | Intro
-00:00:54 |  Project Demo
-00:05:06 |  Setting up Hostinger
-00:11:52 |  Setting up Express.js Server
-00:16:46 |  Setting up MongoDB
-00:27:15 |  Setting Up & Using MongoDB Compass
-00:59:55 |  Creating the Authentication Component
-01:20:49 |  Creating the API for Recipes
-01:42:34 |  UI for Recipes
-02:22:44 |  Validating Requests
-02:30:41 |  Deploying to Hostinger
 ------------------------------------------------------------------------
 YouTube search
 https://www.youtube.com/results?search_query=+MERN+project+app+express&sp=EgYIBRABGAI%253D
@@ -88,6 +52,11 @@ https://www.youtube.com/watch?v=giXuiotopO0
 Notion ReadMe https://cyber-halibut-5bd.notion.site/Awesome-Todos-MERN-2f0ac0aadf564c39a6acd4652d9da698
 Github https://github.com/destocot/awesometodosyoutube
 LiveSite https://awesome-todos-youtube.onrender.com/
+
+MERN Recipe App with Authentication - Build & Deploy A React Intermediate Project
+https://www.youtube.com/watch?v=P43DW3HUUH8&t=423s
+2:37:48mins
+https://github.com/machadop1407/MERN-Recipe-App
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
