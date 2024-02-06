@@ -1,0 +1,98 @@
+Timestamp: 2:28:00
+------------------------------------------------------------------------
+Things i learnt
+
+-have statements running in 2 terminals (client & Server) same time
+-regular dependency vs dev dependency. Bundle size
+-index.js can be in root or in a src folder. both are acceptable
+-if index.js is in src, script should be "node src/index.js"
+-MongoDB cluster → MongoDB database → Collections → Documents architecture
+-Bcrypt can automatically generate a random salt or you can provide a custom salt
+-npm i react-router-dom axios react-cookie
+-the ESLint rule import/first. This rule enforces that all import statements should be at the top of the file before any non-import statements.
+-React app configure it to communicate with the backend with proxy in package.json that allows you use relative paths for API calls in frontend. For Vite however you configure the proxy in the vite.config.js file
+-in ECMAScript Modules, you add ("type": "module") in the package.json file.  and add statement "const __dirname = path.resolve();" after "import path from 'path';" to avoid errors
+
+-setup-deploy-mern-app-vercel-render - Frontend Vercel, Backend Render
+-diary-web-app-mern-stack - Frontend Render, Backend Render
+-full-stack-mern-todo-app - Render (Frontend npm run build React)
+-dinosaur-generator-app-nodejs - Render (Frontend npm run build Vanilla)
+-mern-stack-book-store-project-frontend - Frontend Render, Backend Render
+-mern-recipe-app-with-authentication - Render (Frontend npm run build React)
+------------------------------------------------------------------------
+MERN Recipe App with Authentication - Build & Deploy A React Intermediate Project
+https://www.youtube.com/watch?v=P43DW3HUUH8&t=423s
+2:37:48mins
+https://github.com/machadop1407/MERN-Recipe-App
+------------------------------------------------------------------------
+Timestamps
+00:00:00 | Intro
+00:00:54 |  Project Demo
+00:05:06 |  Setting up Hostinger
+00:11:52 |  Setting up Express.js Server
+00:16:46 |  Setting up MongoDB
+00:27:15 |  Setting Up & Using MongoDB Compass
+00:59:55 |  Creating the Authentication Component
+01:20:49 |  Creating the API for Recipes
+01:42:34 |  UI for Recipes
+02:22:44 |  Validating Requests
+02:30:41 |  Deploying to Hostinger
+------------------------------------------------------------------------
+YouTube search
+https://www.youtube.com/results?search_query=+MERN+project+app+express&sp=EgYIBRABGAI%253D
+------------------------------------------------------------------------
+Previous Projects
+
+Building a Node.js app (as a JavaScript noob) 
+https://www.youtube.com/watch?v=wYALykLb5oY
+https://github.com/thecodercoder/dinosaur-generator
+Dino Ipsum - https://dinoipsum.com/
+Google API - https://rapidapi.com/neoscrap-net/api/google-search72
+https://rapidapi.com/search/images Page3
+
+How to Create a Express/Node + React Project | Node Backend + React Frontend 
+https://www.youtube.com/watch?v=w3vs4a03y3I
+
+Build a REST API with Node JS and Express | CRUD API Tutorial
+https://www.youtube.com/watch?v=l8WPWK9mS5M
+https://github.com/adrianhajdin/node_express_crud_api
+
+Serve a HTML Website or Single Page Application with Node and Express
+https://www.youtube.com/watch?v=fyc-4YmgLu0
+
+Build a Weather APP in Node JS 
+https://www.youtube.com/watch?v=C1m-pZGwwD4 
+https://github.com/deeppatel23/Weather-app
+
+How to Connect Node.js App to MongoDB
+https://www.youtube.com/watch?v=bhiEJW5poHU 
+
+Build Restful CRUD API with Node.js, Express and MongoDB in 45 minutes for Beginners from Scratch
+https://www.youtube.com/watch?v=9OfL9H6AmhQ (with MongoDB) 46mins
+
+MERN Stack Tutorial - Book Store Project 1.01mins 
+https://www.youtube.com/watch?v=-42K44A1oMA
+
+How to setup and deploy fullstack(MERN) application on Vercel and Render (with Github. Cules Coding)
+https://www.youtube.com/watch?v=ME3tMy5Q2qo
+https://github.com/thatanjan/mern-setup
+https://cules-coding.vercel.app/blog/how-to-setup-and-deploy-a-fullStack(mern)-application-on-vercel-and-render
+
+Build a Diary Web App using the MERN Stack! - Coding Tutorials by Umar Khan
+https://www.youtube.com/watch?v=rl7AVEi5hls
+2.28min with Github. MERN deploy Render (FE and BE)
+
+Full Stack MERN Todo App with MongoDB, React, Express, Node | Responsive + Deployment + Full Notes
+https://www.youtube.com/watch?v=giXuiotopO0
+2.22min MERN deploy Render (FE and BE)
+Notion ReadMe https://cyber-halibut-5bd.notion.site/Awesome-Todos-MERN-2f0ac0aadf564c39a6acd4652d9da698
+Github https://github.com/destocot/awesometodosyoutube
+LiveSite https://awesome-todos-youtube.onrender.com/
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------

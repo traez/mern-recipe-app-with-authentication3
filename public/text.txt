@@ -1,0 +1,13 @@
+im trying to deploy my mern project on render.com. it works fine on my laptop
+
+but 
+error log when im trying to deploy on render is:
+Error: ENOENT: no such file or directory, stat '/opt/render/project/src/server/build/index.html'
+
+See clarifications below
+
+Start script: "node src/index.js",
+index.js is server/src/index.js
+project root is server/build/index.html
+
+
